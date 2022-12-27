@@ -1,0 +1,10 @@
+body {
+  color: #7e0d88;
+  background-color: grey;
+  border: 4px double black
+};
+
+.header {
+  width: 70%;
+  
+}
